@@ -1,0 +1,7 @@
+SiteUrl = 'https://www.saucedemo.com/'
+Browser = 'chrome'
+txt_loginUserName = 'id=user-name'
+username='standard_user'
+txt_loginPassword='id=password'
+password='secret_sauce'
+btnsignIn='id=login-button'
